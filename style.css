@@ -5,5 +5,20 @@
     color:white;
 }
 .card-body{
-    background-color:rgb(152, 147, 147)
+    background-image: linear-gradient(to right,rgb(155, 152, 152),rgb(52, 51, 51));
+}
+
+.container{
+    color:white;
+    background-color: rgb(35,64,75);
+    padding-top: 15px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+.card-text{
+    line-height: 35px;
+}
+.btn{
+    background:transparent;
+    border-color: white;
 }
