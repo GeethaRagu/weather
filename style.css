@@ -1,0 +1,9 @@
+.card-header{
+    background-color: black;
+}
+.card-header h5,.card-text{
+    color:white;
+}
+.card-body{
+    background-color:rgb(152, 147, 147)
+}
